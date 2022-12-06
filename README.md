@@ -1,2 +1,2 @@
-# studyC-
+# studyC++
 studyC++withBaekjoon
